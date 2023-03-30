@@ -1,0 +1,37 @@
+body{
+ text-align : center;
+  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  padding-top:55%;
+  background-color:indigo;
+  
+  
+
+  
+}
+.d{
+  font-style: italic;
+color:darkgreen;
+text-shadow:5px 5px 5px #000;
+}
+.c{
+  font-style: italic;
+  color: violet;
+  text-shadow: 5px 5px 5px #000;
+}
+.letter{
+position: absolute;
+padding-right: 5%;
+padding-top: 5%;
+  padding-left: 9%;
+}
+.a{
+  position: absolute;
+  
+
+}
+.end{
+  
+  
+}
